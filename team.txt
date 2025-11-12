@@ -1,2 +1,3 @@
 creating a folder 
 it name was "GIT PRACTICAL"
+and initialize git repository
